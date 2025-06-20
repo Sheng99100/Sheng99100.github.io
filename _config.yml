@@ -1,0 +1,11 @@
+title: 你的网站标题
+description: 网站描述
+theme: minima  # 默认主题（或换其他支持的主题）
+
+# 博客相关配置
+permalink: /blog/:title/  # 博客链接格式
+timezone: Asia/Shanghai   # 时区
+
+# 插件（GitHub Pages 默认支持部分插件）
+plugins:
+  - jekyll-feed
