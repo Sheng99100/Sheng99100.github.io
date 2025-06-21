@@ -90,8 +90,8 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
-title: For what? Who knows # 博客标题
-description: 
+title: Everyone was fooled. # 博客标题
+description: welcome
 theme: minima  # 默认主题（或换其他支持的主题）
 
 # 博客相关配置
