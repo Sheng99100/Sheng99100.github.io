@@ -4,4 +4,3 @@ title: 草稿
 permalink: /draft/
 ---
 
-草稿
