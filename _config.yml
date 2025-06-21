@@ -99,5 +99,6 @@ permalink: /:title/  # 博客链接格式
 timezone: Asia/Shanghai   # 时区
 
 header_pages:
+  - index.md  # 首页
   - draft.md
   - wastepaper.md
