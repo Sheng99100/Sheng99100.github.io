@@ -90,7 +90,7 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
-title: 纸篓 # 博客标题
+title: For what? Who knows # 博客标题
 description: 
 theme: minima  # 默认主题（或换其他支持的主题）
 
@@ -98,6 +98,6 @@ theme: minima  # 默认主题（或换其他支持的主题）
 permalink: /:title/  # 博客链接格式
 timezone: Asia/Shanghai   # 时区
 
-# 插件（GitHub Pages 默认支持部分插件）
-plugins:
-  - jekyll-feed
+header_pages:
+  - draft.md
+  - wastepaper.md
