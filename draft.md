@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: drafts
 title: 草稿
-permalink: /draft/
+permalink: /drafts/
 ---
 
