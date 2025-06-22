@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: blogs
 title: 博客
 ---
