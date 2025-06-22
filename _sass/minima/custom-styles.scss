@@ -2,9 +2,13 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 @media screen and (min-width: 800px) {
-
     .post-title,
     .post-content h1 {
         font-size: 1.5rem
     }
+}
+
+
+.site-title {
+    font-size: 1.35rem;
 }
